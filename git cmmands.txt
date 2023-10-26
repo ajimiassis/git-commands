@@ -1,0 +1,5 @@
+git clone(): add exact copy of remote repository to local repository
+git status(): to get the list of untracked files in git
+git add -A: to allow the exact copy of the created files in the git folder to staging process.
+git commit -m "message": to commit the changes to the files in git
+git push origin main: to push the files to the remote repository from the local repository
